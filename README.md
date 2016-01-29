@@ -1,6 +1,6 @@
 # Data and Analysis: Indian Immigration Detention Rates
 
-This repository contains the data and code supporting several passages in the BuzzFeed News article, "America's Quiet Crackdown On Indian Immigrants," published January 29, 2016.
+This repository contains the data and code supporting several passages in the BuzzFeed News article, "[America's Quiet Crackdown On Indian Immigrants](http://www.buzzfeed.com/davidnoriega/americas-quiet-crackdown-on-indian-immigrants)," published January 29, 2016.
 
 ## Data
 
@@ -22,7 +22,7 @@ The following passage is supported by the calculations in [this notebook](notebo
 
 ## Technical Notes
 
-To replicate this analysis you'll need Python 2.7 or 3.x as well as the Python libraries listed in [`requirements.txt`](requirements.txt). You'll also need to [download the data from the Internet Archive](https://archive.org/details/eoir-detention-and-bonds), and place it into this repository's `data` subdirectory.
+To replicate this analysis you'll need Python 2.7 or 3.x as well as the Python libraries listed in [`requirements.txt`](requirements.txt). You'll also need to [download the data from the Internet Archive](https://archive.org/details/eoir-detention-data-2015), and place it into this repository's `data` subdirectory.
 
 ## Questions / Feedback
 
